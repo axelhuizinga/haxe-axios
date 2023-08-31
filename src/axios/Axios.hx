@@ -3,7 +3,7 @@ package axios;
 import haxe.extern.EitherType;
 import haxe.extern.Rest;
 import js.Promise;
-import js.Promise.Promise.PromiseCallback;
+//import js.Promise.Promise.PromiseCallback;
 
 import axios.AxiosPromise;
 import axios.AxiosRequestConfig;
